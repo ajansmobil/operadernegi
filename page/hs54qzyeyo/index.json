@@ -1,0 +1,33 @@
+{
+  "name": {
+    "tr": "Ürünler"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "urunler",
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2026-05-06T18:13:04.465Z",
+  "date": "2026-05-06T18:13:04.465Z",
+  "title": {
+    "tr": "Ürünler"
+  }
+}
